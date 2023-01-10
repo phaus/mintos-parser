@@ -1,6 +1,6 @@
 # Mintos Parser
 
-This converts [Mintos (affiliate Link)](https://www.mintos.com/de/l/ref/PJJ945) Exports into a CSV Format, that [MoneyMoney](https://moneymoney-app.com) do understand.
+This converts [Mintos (affiliate Link)](https://www.mintos.com/de/l/ref/PJJ945) Exports into a CSV Format, that [MoneyMoney](https://moneymoney-app.com) does understand.
   
 > npm i  
 
